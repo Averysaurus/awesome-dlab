@@ -41,11 +41,15 @@ Or if you'd like to check out stuff that is awesome to people outside of D-Lab, 
 
 * [makereproducible](https://github.com/jaeyk/makereproducible): R package for making a project computationally reproducible before sharing it
 
+* [Regular Expression Tester](https://spannbaueradam.shinyapps.io/r_regex_tester/): Shiny app for testing R RegEx code on sample strings. 
+
 ## PDF
 * [Working with PDFs in Python](https://stackabuse.com/working-with-pdfs-in-python-reading-and-splitting-pages/) - Describes a range of Python libraries and and examples to work with PDFs: Reading and Splitting Pages; Adding Images and Watermarks; Inserting, Deleting, and Reordering Pages
 
 ## Python
 * [Awesome Python](https://github.com/vinta/awesome-python#readme) - more awesomeness related to this topic.
+
+* [Regular Expression Tester](https://regex101.com/): Online app for testing Python RegEx code on sample strings. 
 
 ## Databases
 * [SQLite](http://www.sqlite.org/) - A completely embedded, full-featured relational database in a few 100k that you can include right into your project.
